@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1066图像过滤（15）.cpp">
+    <ClCompile Include="1024. 科学计数法 (20).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
