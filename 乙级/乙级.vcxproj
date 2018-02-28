@@ -19,8 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="1018. 锤子剪刀布 (20).cpp" />
     <ClCompile Include="1024. 科学计数法 (20).cpp" />
-    <ClCompile Include="1027. 打印沙漏(20).cpp" />
+    <ClCompile Include="1031. 查验身份证(15).cpp" />
+    <ClCompile Include="1079. 延迟的回文数 (20).cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
