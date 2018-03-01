@@ -27,5 +27,17 @@
     <ClCompile Include="1018. 锤子剪刀布 (20).cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1069. 微博转发抽奖(20).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1038. 统计同成绩学生(20).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1053. 住房空置率 (20).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
